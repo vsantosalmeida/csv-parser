@@ -1,0 +1,6 @@
+f. name,l. name,email,wage,emp id,phone
+ ,Doe,doe@test.com ,,RT1,453 415 1414
+Mary,Jane,marytes.com,15 ,,144 856 1274
+,,,.11,RT3,
+Alfred,Donald,alfred@test.com,11,RT2,214 538 5777
+Alfred,Donald,alfred@test.com,err,RT1,214 538 5777
